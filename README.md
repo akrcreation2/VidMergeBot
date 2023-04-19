@@ -1,3 +1,24 @@
+ ### 📶 DEPLOYEMENT SUPPORT
+
+<details><summary>🔥 Deploy To Koyeb 🔥</summary>
+<p>
+<br>                 
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/akrcreation2/VidMergeBot&branch=main&name=LazyMissPerfectGOT" >
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+<details><summary>🧡Deploy To Heroku🧡</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/akrcreation2/VidMergeBot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
+
+
 # VidMergeBot
 
 A bot used to merge multiple video files!
